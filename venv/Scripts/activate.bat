@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\londe\OneDrive\Programacion\2 - Henrry\Data Science\CLASES - DATA\PROYECTO INDIVIDUAL\PI_MLOps_Engineer\venv
+set VIRTUAL_ENV=C:\Users\londe\OneDrive\Programacion\2 - Henrry\Data Science\CLASES - DATA\PROYECTO INDIVIDUAL\PI_MLOps_04\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

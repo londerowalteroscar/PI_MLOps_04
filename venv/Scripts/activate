@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\londe\OneDrive\Programacion\2 - Henrry\Data Science\CLASES - DATA\PROYECTO INDIVIDUAL\PI_MLOps_Engineer\venv"
+VIRTUAL_ENV="C:\Users\londe\OneDrive\Programacion\2 - Henrry\Data Science\CLASES - DATA\PROYECTO INDIVIDUAL\PI_MLOps_04\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
